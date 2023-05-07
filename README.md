@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-maxprofit-py
+<br>
+You should save the solution to this problem in a file called <strong>maxprofit.py</strong> if you wish to use the tester program. write a function called <strong>maxprofit</strong> that accepts a single list argument as input (referred to as mylist in this description). The function should determine the maximum profit that can be made by ‘buying’ a stock at one index in mylist and ‘selling’ it at a later index. In this case, you can calculate the profit of buying at index x and selling at index y as mylist[y] – mylist[x]. Note that the selling index must come after the buying index. Your function must return a list with the following 3 pieces of information: the buy index, the sell index, and the maximum profit. You may assume
+
+that at least one combination of buy/sell prices that exist produce a positive profit. You can also assume that there will be only one maximum combination (i.e., no ties exist).
